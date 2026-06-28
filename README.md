@@ -26,7 +26,7 @@ An AI-powered PDF summarizer built with React, Node.js, and the Claude API. Uplo
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-summarizer.git
+git clone https://github.com/arnav3001/pdf-summarizer.git
 cd pdf-summarizer
 ```
 
